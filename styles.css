@@ -1,0 +1,29 @@
+body{
+    background-image: url(c.jpeg);
+    background-repeat: no-repeat;
+    background-size: 60vw;
+   
+    
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(214, 2, 90);
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 10px;
+    
+  }
+  
+  button {
+    margin-top: 20px;
+    background-color: rgb(15, 122, 184);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-size: 1rem;
+    padding: 8px;
+  }
+  
